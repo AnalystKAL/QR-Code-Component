@@ -18,12 +18,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](qr-code-site.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub Solution Page](https://github.com/AnalystKAL/QR-Code-Component)
+- Live Site URL: [GitHub Pages](https://analystkal.github.io/QR-Code-Component/)
 
 ## My process
 
@@ -72,4 +72,4 @@ Re-adjust width and height values if they mismatch with solution.
 
 ## Acknowledgments
 
-I learnt a few lessons about mobile view flexbox and proper media query format from @femacaraeg Product Card solution. So thank you Fe.
+I learnt a few lessons about mobile view flexbox and proper media query format from @femacaraeg Product Card solution. Thank you Fe.
