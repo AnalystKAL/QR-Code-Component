@@ -25,14 +25,14 @@ h1 {
     text-align: center;
     color: hsl(218, 44%, 22%);
     margin-bottom: 0;
+    font-size: 1.5rem;
 }
 
 p {
+    font-size: 1.2rem;
     margin: 0;
     padding: 1rem;
     text-align: center;
-    font-weight: 100;
-    font-size: 20px;
     color: hsl(220, 15%, 55%);
 }
 
@@ -40,16 +40,17 @@ p {
     display: flex;
     background-color: white;
     flex-direction: column;
-    max-width: 400px;
-    max-height: 800px;
+    max-width: 350px;
+    max-height: 650px;
     border-radius: 20px;
     padding: 1rem;
+    box-shadow: 0 1rem 1rem 1rem rgba(0, 0, 0, 0.1);
 }
 
 @media (max-width: 550px) {
     .qr-card {
         overflow: hidden;
         max-width: calc(100vw - 40px);
-        margin: 1.5rem;
+        margin: 1.1rem;
     } 
 }
