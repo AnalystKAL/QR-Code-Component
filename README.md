@@ -66,7 +66,6 @@ Re-adjust width and height values if they mismatch with solution.
 
 ## Author
 
-- Krishal
 - GitHub Profile - [@AnalystKAL](https://github.com/AnalystKAL)
 - Frontend Mentor - [@AnalystKAL](https://www.frontendmentor.io/profile/AnalystKAL)
 
